@@ -1,17 +1,20 @@
 ==================================================================
 Read_me for Run_analysis.R
-Submitted for Getting and Cleaning Data (June 2014)
 ==================================================================
+Submitted for Getting and Cleaning Data (June 2014)
+
 
 Introduction - 
+==================================================================
 The purpose of this script is to output two tidy data tables from the smartphone activity measurment dataset found at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 The data is taken from training and testing groups.  30 subjects total.  The codebook included in the same repo contains all the information regarding variable names.  
 The first tidy dataset is subset of the data that only includes the means and standard deviations of the measurements.
 The second tidy dataset is the mean of those variables organized by subject and activity 
 The working directory should be set to the "UUCI HAR DATASET" folder
-==================================================================
+
 
 Order of operations -
+==================================================================
 The first sections of code open and combine the training and testing datasets into a single dataframe and adds the variable names from the info.txt file
 Next I took a subset of the data which only includes the means "mean()" and standard deviations "std()" of the measurements.
 I then replaced the default column names with descriptive variable names. (see codebook for details.).
