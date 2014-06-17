@@ -1,5 +1,5 @@
 ==================================================================
-Read_me for Run_analysis.R
+README for Run_analysis.R
 ==================================================================
 Submitted for Getting and Cleaning Data (June 2014)
 
