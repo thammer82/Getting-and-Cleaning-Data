@@ -12,16 +12,16 @@ For each variable I have extracted the mean and standard deviation __(std).__
 
 ## List of Variables
 
-Body_Accelerometer-mean_time-X_Axis, Body_Accelerometer-mean_time-Y_Axis, Body_Accelerometer-mean_time-Z_Axis:
+#Body_Accelerometer-mean_time-X_Axis, Body_Accelerometer-mean_time-Y_Axis, Body_Accelerometer-mean_time-Z_Axis:
 accelerometer; body signal; time measurement; x,y,z axes 
 
-Body_Accelerometer-Time_std-X_Axis, Body_Accelerometer-Time_std-Y_Axis, Body_Accelerometer-Time_std-Z_Axis: 
+#Body_Accelerometer-Time_std-X_Axis, Body_Accelerometer-Time_std-Y_Axis, Body_Accelerometer-Time_std-Z_Axis: 
 accelerometer; body signal; time measurement; x,y,z axes
 
-Gravity_Accelerometer-mean_Time-X_Axis, Gravity_Accelerometer-mean_Time-Y_Axis, Gravity_Accelerometer-mean_Time-Z_Axis:
+__Gravity_Accelerometer-mean_Time-X_Axis, Gravity_Accelerometer-mean_Time-Y_Axis, Gravity_Accelerometer-mean_Time-Z_Axis:__
 accelerometer; gravity signal; time measurement; x,y,z axes
 
-Gravity_Accelerometer-Time_std-X_Axis, Gravity_Accelerometer-Time_std-Y_Axis, Gravity_Accelerometer-Time_std-Z_Axis:
+__Gravity_Accelerometer-Time_std-X_Axis, Gravity_Accelerometer-Time_std-Y_Axis, Gravity_Accelerometer-Time_std-Z_Axis:__
 accelerometer; gravity signal; time measurement; x,y,z axes  
 
 Body_Accerometer_Jerk-mean_Time-X_Axis, Body_Accerometer_Jerk-mean_Time-Y_Axis, Body_Accerometer_Jerk-mean_Time-Z_Axis:
