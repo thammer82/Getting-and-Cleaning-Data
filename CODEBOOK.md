@@ -12,10 +12,10 @@ For each variable I have extracted the mean and standard deviation __(std).__
 
 ## List of Variables
 
-#Body_Accelerometer-mean_time-X_Axis, Body_Accelerometer-mean_time-Y_Axis, Body_Accelerometer-mean_time-Z_Axis:
+__Body_Accelerometer-mean_time-X_Axis, Body_Accelerometer-mean_time-Y_Axis, Body_Accelerometer-mean_time-Z_Axis:__
 accelerometer; body signal; time measurement; x,y,z axes 
 
-#Body_Accelerometer-Time_std-X_Axis, Body_Accelerometer-Time_std-Y_Axis, Body_Accelerometer-Time_std-Z_Axis: 
+__Body_Accelerometer-Time_std-X_Axis, Body_Accelerometer-Time_std-Y_Axis, Body_Accelerometer-Time_std-Z_Axis:__ 
 accelerometer; body signal; time measurement; x,y,z axes
 
 __Gravity_Accelerometer-mean_Time-X_Axis, Gravity_Accelerometer-mean_Time-Y_Axis, Gravity_Accelerometer-mean_Time-Z_Axis:__
@@ -24,86 +24,86 @@ accelerometer; gravity signal; time measurement; x,y,z axes
 __Gravity_Accelerometer-Time_std-X_Axis, Gravity_Accelerometer-Time_std-Y_Axis, Gravity_Accelerometer-Time_std-Z_Axis:__
 accelerometer; gravity signal; time measurement; x,y,z axes  
 
-Body_Accerometer_Jerk-mean_Time-X_Axis, Body_Accerometer_Jerk-mean_Time-Y_Axis, Body_Accerometer_Jerk-mean_Time-Z_Axis:
+__Body_Accerometer_Jerk-mean_Time-X_Axis, Body_Accerometer_Jerk-mean_Time-Y_Axis, Body_Accerometer_Jerk-mean_Time-Z_Axis:__
 accelerometer; body jerk signal; time measurement; x,y,z axes
  
-Body_Accelerometer_Jerk-Time_std-X_Axis, Body_Accelerometer_Jerk-Time_std-Y_Axis, Body_Accelerometer_Jerk-Time_std-Z_Axis: 
+__Body_Accelerometer-Time_std-X_AxisBody_Accelerometer_Jerk-Time_std-X_Axis, Body_Accelerometer_Jerk-Time_std-Y_Axis, Body_Accelerometer_Jerk-Time_std-Z_Axis:__ 
 accelerometer; body jerk signal; time measurement; x,y,z axes 
 
-Body_Gyroscope-mean_time-X_axis, Body_Gyroscope-mean_time-Y_axis, Body_Gyroscope-mean_time-Z_axis:
+__Body_Gyroscope-mean_time-X_axis, Body_Gyroscope-mean_time-Y_axis, Body_Gyroscope-mean_time-Z_axis:__
 gyroscope; body signal; time measurement; x,y,z axes
  
-Body_Gyroscope-Time_std-X_Axis, Body_Gyroscope-Time_std-Y_Axis, Body_Gyroscope-Time_std-Z_Axis:
+__Body_Gyroscope-Time_std-X_Axis, Body_Gyroscope-Time_std-Y_Axis, Body_Gyroscope-Time_std-Z_Axis:__
 gyroscope; body signal; time measurement; x,y,z axes
 
-Body_Gyroscope_Jerk-mean_Time-X_Axis, Body_Gyroscope_Jerk-mean_Time-Y_Axis, Body_Gyroscope_Jerk-mean_Time-Z_Axis:
+__Body_Gyroscope_Jerk-mean_Time-X_Axis, Body_Gyroscope_Jerk-mean_Time-Y_Axis, Body_Gyroscope_Jerk-mean_Time-Z_Axis:__
 gyroscope; body jerk signal; time measurement; x,y,z axes
  
-Body_Gyroscope_Jerk-Time_std-X_Axis, Body_Gyroscope_Jerk-Time_std-Y_Axis, Body_Gyroscope_Jerk-Time_std-Z_Axis: 
+__Body_Gyroscope_Jerk-Time_std-X_Axis, Body_Gyroscope_Jerk-Time_std-Y_Axis, Body_Gyroscope_Jerk-Time_std-Z_Axis:__ 
 gyroscope; body jerk signal; time measurement; x,y,z axes
 
-Body_Accelerometer_Magnitude-mean_Time, 
+__Body_Accelerometer_Magnitude-mean_Time:__ 
 accelerometer; body signal; time measurement; magnitude
 
-Body_Accelerometer_Magnitude-Time_std: 
+__Body_Accelerometer_Magnitude-Time_std:__ 
 accelerometer; body signal; time measurement; magnitude 
 
-Gravity_Accelerometer_Magnitude-Mean_Time, 
+__Gravity_Accelerometer_Magnitude-Mean_Time:__ 
 accelerometer; gravity Signal; time measurement; magnitude 
 
-Gravity_Accelerometer_Magnitude-Time_std:
+__Gravity_Accelerometer_Magnitude-Time_std:__
 accelerometer; gravity Signal; time measurement; magnitude
 
-Body_Accelerometer_Jerk_Magnitude-Mean_Time, 
+__Body_Accelerometer_Jerk_Magnitude-Mean_Time:__ 
 accelerometer; body jerk signal; time measurement; magnitude
 
-Body_Accelerometer_Jerk_Magnitude-Time_std:
+__Body_Accelerometer_Jerk_Magnitude-Time_std:__
 accelerometer; body jerk signal; time measurement; magnitude 
 
-Body_Gyroscope_Magnitude-Mean_Time: 
+__Body_Gyroscope_Magnitude-Mean_Time:__ 
 gyroscope; body signal; time measurement; magnitude
 
-Body_Gyroscope_Magnitude-Time_std:
+__Body_Gyroscope_Magnitude-Time_std:__
 gyroscope; body signal; time measurement; magnitude 
 
-Body_Gyroscope_Jerk_Magnitude-Mean_Time: 
+__Body_Gyroscope_Jerk_Magnitude-Mean_Time:__ 
 gyroscope; body jerk signal; time measurement; magnitude
 
-Body_Gyroscope_Jerk_Mag-Time_std:
+__Body_Gyroscope_Jerk_Mag-Time_std:__
 gyroscope; body jerk signal; time measurement; magnitude 
 
-Body_Accelerometer-Freq_mean-X_Axis, Body_Accelerometer-Freq_mean-Y_Axis, Body_Accelerometer-Freq_mean-Z_Axis: 
+__Body_Accelerometer-Freq_mean-X_Axis, Body_Accelerometer-Freq_mean-Y_Axis, Body_Accelerometer-Freq_mean-Z_Axis:__ 
 accelerometer; body signal; frequency domain signals; x,y,z axes
 
-Body_Accelerometer-Freq_std-X_Axis, Body_Accelerometer-Freq_std-Y_Axis, Body_Accelerometer-Freq_std-Z_Axis
+__Body_Accelerometer-Freq_std-X_Axis, Body_Accelerometer-Freq_std-Y_Axis, Body_Accelerometer-Freq_std-Z_Axis:__
 accelerometer; body signal; frequency domain signals; x,y,z axes
 
-Body_Accelerometer_Jerk-Freq_mean-X_Axis, Body_Accelerometer_Jerk-Freq_mean-Y_Axis, Body_Accelerometer_Jerk-Freq_mean-Z_Axis: 
+__Body_Accelerometer_Jerk-Freq_mean-X_Axis, Body_Accelerometer_Jerk-Freq_mean-Y_Axis, Body_Accelerometer_Jerk-Freq_mean-Z_Axis:__ 
 accelerometer; body jerk signal; frequency domain signals; x,y,z axes 
 
-Body_Accelerometer_Jerk-std_X_Axis, Body_Accelerometer_Jerk-std_Y_Axis, Body_Accelerometer_Jerk-std_Z_Axis:
+__Body_Accelerometer_Jerk-std_X_Axis, Body_Accelerometer_Jerk-std_Y_Axis, Body_Accelerometer_Jerk-std_Z_Axis:__
 accelerometer; body jerk signal; frequency domain signals; x,y,z axes 
 
-Body_Gyroscope-Freq_mean-X_Axis, Body_Gyroscope-Freq_mean-Y_Axis, Body_Gyroscope-Freq_mean-Z_Axis: 
+__Body_Gyroscope-Freq_mean-X_Axis, Body_Gyroscope-Freq_mean-Y_Axis, Body_Gyroscope-Freq_mean-Z_Axis:__ 
 gyroscope; body signal; frequency domain signals; x,y,z axes
 
-Body_Gyroscope-Freq_std-X_Axis, Body_Gyroscope-Freq_std-Y_Axis, Body_Gyroscope-Freq_std-Z_Axis: 
+__Body_Gyroscope-Freq_std-X_Axis, Body_Gyroscope-Freq_std-Y_Axis, Body_Gyroscope-Freq_std-Z_Axis:__ 
 gyroscope; body signal; frequency domain signals; x,y,z axes
 
-Body_Accelerometer_Magnitude-Freq_mean: 
+__Body_Accelerometer_Magnitude-Freq_mean:__ 
 accelerometer; body signal; frequency domain signals; magnitude
 
-Body_Accelerometer_Magnitude-Freq_std:
+__Body_Accelerometer_Magnitude-Freq_std:__
 accelerometer; body signal; frequency domain signals; magnitude 
 
-Body_Body_Gyroscope_Magnitude-Freq_mean, 
+__Body_Body_Gyroscope_Magnitude-Freq_mean:__ 
 gyroscope; body signal; frequency domain signals; magnitude
 
-Body_Body_Gyroscope_Magnitude-Freq_std: 
+__Body_Body_Gyroscope_Magnitude-Freq_std:__ 
 gyroscope; body signal; frequency domain signals; magnitude 
 
-Body_Body_Gyroscope_Jerk_Magnitude-Freq_mean: 
+__Body_Body_Gyroscope_Jerk_Magnitude-Freq_mean:__ 
 gyroscope; body jerk signal; frequency domain signals; magnitude
 
-Body_Body_Gyroscope_Jerk_Magnitude-freq_std:
+__Body_Body_Gyroscope_Jerk_Magnitude-freq_std:__
 gyroscope; body jerk signal; frequency domain signals; magnitude 
